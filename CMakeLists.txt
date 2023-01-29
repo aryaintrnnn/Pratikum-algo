@@ -3,4 +3,4 @@ project(Pratikum_algo)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(Pratikum_algo main.cpp)
+add_executable(Pratikum_algo uas3.cpp)

@@ -1,3 +1,11 @@
 # ninja log v5
+5	815	6900895808989261	CMakeFiles/Pratikum_algo.dir/uts.cpp.obj	2db827532e4bcfe7
 1	832	6888816633136614	CMakeFiles/Pratikum_algo.dir/main.cpp.obj	8979cea5193c5b72
-838	1047	6888816635238155	Pratikum_algo.exe	976392d434da9e55
+2466	2963	6962295383812130	Pratikum_algo.exe	331a9b48b323fb8
+4	11164	6965193197301493	build.ninja	18cb030f6bd71760
+5	779	6900900601567412	CMakeFiles/Pratikum_algo.dir/uts2.cpp.obj	f82308ad4d3fd0e
+5	656	6934049691505782	CMakeFiles/Pratikum_algo.dir/tugas-algo.cpp.obj	5fa3f512ec0f199d
+4	551	6913052986307022	CMakeFiles/Pratikum_algo.dir/link.cpp.obj	21dada28b425b2bb
+6	586	6961432202474991	CMakeFiles/Pratikum_algo.dir/uas2.cpp.obj	e2f7c28426f2cc0c
+3	620	6961462088242010	CMakeFiles/Pratikum_algo.dir/uas.cpp.obj	52a7bcb61b1945fa
+23	2464	6962295379085049	CMakeFiles/Pratikum_algo.dir/uas3.cpp.obj	924f14db1398e0fd
